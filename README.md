@@ -35,7 +35,7 @@ brew install JetBrains/utils/kotlin-lsp
 
 1. **마켓플레이스 추가:**
    ```
-   /plugin marketplace add h16rkim/cc-kotlin-lsp-plugin
+   /plugin marketplace add https://github.com/h16rkim/cc-kotlin-lsp.git
    ```
 
 2. **플러그인 설치:**

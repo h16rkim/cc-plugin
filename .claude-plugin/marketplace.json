@@ -7,11 +7,12 @@
   "plugins": [
     {
       "name": "kotlin-lsp",
-      "source": "./",
+      "source": "./kotlin-lsp",
       "description": "Kotlin language support for Claude Code using JetBrains official Kotlin LSP",
       "version": "1.0.0",
       "author": {
-        "name": "h16rkim"
+        "name": "h16rkim",
+        "email": "h16rkim@gmail.com"
       },
       "homepage": "https://github.com/h16rkim/cc-kotlin-lsp-plugin",
       "repository": "https://github.com/h16rkim/cc-kotlin-lsp-plugin",
