@@ -47,6 +47,31 @@
       "repository": "https://github.com/h16rkim/cc-lsp",
       "license": "MIT",
       "keywords": ["java", "lsp", "language-server", "eclipse"]
+    },
+    {
+      "name": "typescript-lsp",
+      "source": "./typescript-lsp",
+      "description": "TypeScript/JavaScript language support for Claude Code using typescript-language-server",
+      "version": "0.1.0",
+      "author": {
+        "name": "h16rkim",
+        "email": "h16rkim@gmail.com"
+      },
+      "homepage": "https://github.com/h16rkim/cc-lsp",
+      "repository": "https://github.com/h16rkim/cc-lsp",
+      "license": "MIT",
+      "keywords": ["typescript", "javascript", "lsp", "language-server"],
+      "lspServers": {
+        "typescript-lsp": {
+          "command": "typescript-language-server",
+          "extensionToLanguage": {
+            ".ts": "typescript",
+            ".tsx": "typescriptreact",
+            ".js": "javascript",
+            ".jsx": "javascriptreact"
+          }
+        }
+      }
     }
   ]
 }
