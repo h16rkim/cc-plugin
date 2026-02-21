@@ -6,8 +6,8 @@
     "name": "h16rkim",
     "email": "h16rkim@gmail.com"
   },
-  "homepage": "https://github.com/h16rkim/cc-plugin",
-  "repository": "https://github.com/h16rkim/cc-plugin",
+  "homepage": "https://github.com/h16rkim/overmind",
+  "repository": "https://github.com/h16rkim/overmind",
   "license": "MIT",
   "keywords": ["typescript", "javascript", "lsp", "language-server"]
 }

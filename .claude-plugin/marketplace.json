@@ -1,5 +1,5 @@
 {
-  "name": "cc-plugin",
+  "name": "overmind",
   "owner": {
     "name": "h16rkim",
     "url": "https://github.com/h16rkim"
@@ -14,8 +14,8 @@
         "name": "h16rkim",
         "email": "h16rkim@gmail.com"
       },
-      "homepage": "https://github.com/h16rkim/cc-plugin",
-      "repository": "https://github.com/h16rkim/cc-plugin",
+      "homepage": "https://github.com/h16rkim/overmind",
+      "repository": "https://github.com/h16rkim/overmind",
       "license": "MIT",
       "keywords": ["kotlin", "lsp", "language-server", "jetbrains", "gradle"],
       "lspServers": {
@@ -37,8 +37,8 @@
         "name": "h16rkim",
         "email": "h16rkim@gmail.com"
       },
-      "homepage": "https://github.com/h16rkim/cc-plugin",
-      "repository": "https://github.com/h16rkim/cc-plugin",
+      "homepage": "https://github.com/h16rkim/overmind",
+      "repository": "https://github.com/h16rkim/overmind",
       "license": "MIT",
       "keywords": ["java", "lsp", "language-server", "eclipse"]
     },
@@ -51,8 +51,8 @@
         "name": "h16rkim",
         "email": "h16rkim@gmail.com"
       },
-      "homepage": "https://github.com/h16rkim/cc-plugin",
-      "repository": "https://github.com/h16rkim/cc-plugin",
+      "homepage": "https://github.com/h16rkim/overmind",
+      "repository": "https://github.com/h16rkim/overmind",
       "license": "MIT",
       "keywords": ["typescript", "javascript", "lsp", "language-server"],
       "lspServers": {
