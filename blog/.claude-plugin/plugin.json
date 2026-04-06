@@ -13,8 +13,8 @@
   "commands": [
     "./skills/fetch-googlemap/",
     "./skills/fetch-kakaomap/",
-    "./skills/fetch-later/",
-    "./skills/fetch-place/"
+    "./skills/later/",
+    "./skills/place/"
   ],
   "keywords": ["blog", "kakaomap", "googlemap", "place", "later"]
 }
